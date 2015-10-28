@@ -1,3 +1,3 @@
-# Maven Scala Template
+# KdG Spark Examples
 
-A template to configure a Scala project to be built with Maven.
+Code examples from the KdG Big Data Spark lecture
